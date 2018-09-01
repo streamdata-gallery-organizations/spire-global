@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Spire Global",
+	"description": "This is a repository of spire global APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/spire-global.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-31",
+	"url": "http://spire-global.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Spire Global",
+			"x-api-slug": "spire-global",
+			"description": "Spire Global, Inc. is an American private company specializing in data gathered from a network of small satellites.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/spire-logo.png",
+			"humanURL": "https://spire.com",
+			"baseURL": "https://ais.spire.com//",
+			"tags": "Spire Global",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/spire-global/master/_listings/spire-global/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Spire Global",
+	"include": [
+		{
+			"name": "Spire Global",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/spire-global/master/_listings/spire-global/apis.yaml"
+		}
+	]
+}
